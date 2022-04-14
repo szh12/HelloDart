@@ -91,7 +91,7 @@ void functions() {
 void comments() {
   print('\n');
   print('#' * 40);
-  print('注释 ');
+  print('注释');
   print('#' * 40);
 
   /// 这是一个文档注释。
