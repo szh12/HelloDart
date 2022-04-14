@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import 'dart:async';
 import 'dart:io';
 import 'dart:math';
@@ -334,7 +335,7 @@ void exceptions() {
   print('\n');
   print('#' * 40);
   print('异常');
-  print('#' * 40);
+  print('#' * 41);
 
   var flybyObjects = ['飞机', '火箭', '铲土车', '手机'];
   show_descriptions(flybyObjects);
@@ -377,3 +378,4 @@ Future<void> main(List<String> args) async {
   // 异常
   exceptions();
 }
+
