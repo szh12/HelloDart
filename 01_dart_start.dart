@@ -5,7 +5,7 @@ import 'dart:math';
 // 变量 （https://dart.cn/samples#variables）
 void variables() {
   print('\n');
-  print('#' * 40);
+  print('#' * 39);
   print('变量');
   print('#' * 40);
 
