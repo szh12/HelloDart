@@ -343,7 +343,7 @@ void exceptions() {
 
 Future<void> main(List<String> args) async {
   // 变量
-  variables();
+  variables( );
 
   // 控制流程
   control_flow_statements();
